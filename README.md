@@ -1,4 +1,3 @@
-<img src="https://i.ibb.co/4ZCZYq21/Kh-ng-C-Ti-u-3-20260728101416.png" width="250">
 
 <!--
 **ImperialFire-Duo/ImperialFire-Duo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
